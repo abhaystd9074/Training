@@ -1,6 +1,12 @@
 import java.util.*;
 public class Calci
 {
+public static int add(int a,int b){
+return a+b;}
+
+
+
+
 public static void main(Strign args []){
 System.out.println("this is basic structure");
 Scanner sc = new Scanner(System.in);
